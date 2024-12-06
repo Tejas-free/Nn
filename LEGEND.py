@@ -5,8 +5,8 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, CallbackContext
 
 # Configuration
-TELEGRAM_BOT_TOKEN = "YOUR_BOT_TOKEN"
-ADMIN_USER_ID = 1441704343  # Replace with your admin user ID
+TELEGRAM_BOT_TOKEN = "8182911562:AAGHfQnIUmefuCtVMO0w2zDQwfPUdAGYD68"
+ADMIN_USER_ID = 5486683891  # Replace with your admin user ID
 approved_users = {}  # Dictionary of approved users and their expiration times
 active_attack = None
 saved_attacks = []  # List to store saved attack details
